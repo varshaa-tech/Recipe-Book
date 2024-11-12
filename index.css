@@ -90,7 +90,7 @@
     border-style:solid;
     border-radius: 2px;
     padding: 5px;
-    margin-bottom:50px
+    height:100px
 }
 .symbol:hover{
     background-color: rgb(9, 11, 9);
